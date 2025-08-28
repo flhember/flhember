@@ -1,5 +1,5 @@
 ## Hi there, I'm Flo 👋
-<img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXRzcjlkNW15ODNuYWllYTllY3d0bHdsdjF2eWNtaDU3eG1sbmxmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YQS7fc2JAylV6Cxcwi/giphy.gif" width="250">
+<img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmgwOTF0bXhhbnBjZTlucWZtdzk0YmRiNzZpYnE0dHhnYWJteHl4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/07MiismGCnKMWYiWGy/giphy.gif" width="250">
 
 💻 Full-Stack Mobile Developer  
 🌍 Traveling the world & building projects on the way!
