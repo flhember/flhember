@@ -4,16 +4,18 @@
 💻 Full-Stack Mobile Developer  
 🌍 Traveling the world & building projects on the way!
 
-### 🎨 Frontend  
+
+![Frontend](https://img.shields.io/badge/-Frontend-blueviolet?style=for-the-badge) 
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Gluestack](https://img.shields.io/badge/Gluestack_UI-6C63FF?style=for-the-badge&logo=react&logoColor=white)
 
-### ⚙️ Backend  
+![Backend](https://img.shields.io/badge/-Backend-darkgreen?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🛠️ Tools  
+![Tools](https://img.shields.io/badge/-Tools-darkred?style=for-the-badge) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
