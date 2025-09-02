@@ -1,5 +1,7 @@
 # Hi there, I'm Flo 👋
-<img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmgwOTF0bXhhbnBjZTlucWZtdzk0YmRiNzZpYnE0dHhnYWJteHl4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/07MiismGCnKMWYiWGy/giphy.gif" width="200">
+<img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDQ0azUyYmVseWl1eWR0MTVyNGF2M3V4Zmt6eXBlbmk3ZnJraHVyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YQS7fc2JAylV6Cxcwi/giphy.gif#gh-light-mode-only" width="200" alt="Hi (light)" />
+<img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmgwOTF0bXhhbnBjZTlucWZtdzk0YmRiNzZpYnE0dHhnYWJteHl4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/07MiismGCnKMWYiWGy/giphy.gif#gh-dark-mode-only"  width="200" alt="Hi (dark)"  />
+
 
 💻 Full-Stack Mobile Developer  
 🌍 Traveling the world & building projects on the way!
@@ -8,7 +10,7 @@
 ![Frontend](https://img.shields.io/badge/-Frontend-blueviolet?style=for-the-badge) 
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Gluestack](https://img.shields.io/badge/Gluestack_UI-6C63FF?style=for-the-badge&logo=react&logoColor=white)
+![Tamagui](https://img.shields.io/badge/Tamagui-F76808?style=for-the-badge)
 
 ![Backend](https://img.shields.io/badge/-Backend-darkgreen?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
