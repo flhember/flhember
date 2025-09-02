@@ -1,7 +1,9 @@
 # Hi there, I'm Flo 👋
-<img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDQ0azUyYmVseWl1eWR0MTVyNGF2M3V4Zmt6eXBlbmk3ZnJraHVyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YQS7fc2JAylV6Cxcwi/giphy.gif#gh-light-mode-only" width="200" alt="Hi (light)" />
-<img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmgwOTF0bXhhbnBjZTlucWZtdzk0YmRiNzZpYnE0dHhnYWJteHl4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/07MiismGCnKMWYiWGy/giphy.gif#gh-dark-mode-only"  width="200" alt="Hi (dark)"  />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmgwOTF0bXhhbnBjZTlucWZtdzk0YmRiNzZpYnE0dHhnYWJteHl4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/07MiismGCnKMWYiWGy/giphy.gif#gh-dark-mode-only" />
+  <source media="(prefers-color-scheme: light)" srcset="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDQ0azUyYmVseWl1eWR0MTVyNGF2M3V4Zmt6eXBlbmk3ZnJraHVyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YQS7fc2JAylV6Cxcwi/giphy.gif#gh-light-mode-only" />
+  <img align="right" src="[https://.../LIGHT.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDQ0azUyYmVseWl1eWR0MTVyNGF2M3V4Zmt6eXBlbmk3ZnJraHVyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YQS7fc2JAylV6Cxcwi/giphy.gif#gh-light-mode-only)" width="200" alt="Hi" />
+</picture>
 
 💻 Full-Stack Mobile Developer  
 🌍 Traveling the world & building projects on the way!
